@@ -1,4 +1,5 @@
 
+![ER diagram](https://github.com/TimurBonet/ER_diagram/blob/main/ER%20diagram.png)
 
 -- Извлечь все фильмы
 SELECT film_id id,
